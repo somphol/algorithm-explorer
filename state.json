@@ -135,7 +135,7 @@
     "catalog": "https://somphol.github.io/opencode-skills/",
     "source": "https://github.com/somphol/opencode-skills/tree/main/algorithm-explorer-studio",
     "local": "~/.config/opencode/skills/algorithm-explorer-studio",
-    "version": "a04b34b77da",
+    "version": "a04b34b77da3",
     "validation": "check-skill OK (65 files); scaffold produced a clean project that passed 47/47 Node and 35/35 browser checks.",
     "note": "Skill contains the full reference implementation, method/lessons/verification/release references and new-project/verify scripts."
   }
